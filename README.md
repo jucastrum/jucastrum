@@ -1,4 +1,4 @@
-## Hi, my name is Julianne Castro!😸
+<h1 style="color: #FF0000;">Hi, my name is Julianne Castro!😸</h1>
 - I'm studying a bachelor's degree in software engineering (4/8);
 - I'm doing fullstack bootcamp at [DIO](https://web.dio.me/);
 - I study advanced english (7/10) and pratice a little french haha!
