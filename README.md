@@ -1,8 +1,8 @@
 <h1 style="color: #FF0000;">Hi, my name is Julianne Castro!😸</h1>
 
-- I'm studying a bachelor's degree in software engineering (5/8);
+- I'm studying a bachelor's degree in software engineering (6/8);
 - I'm doing fullstack bootcamp at [DIO](https://web.dio.me/);
-- I study advanced english (8/10) and pratice a little french haha!
+- I study advanced english (9/10) and pratice a little french haha!
 ## My Github stats
 <div>
   <a href="https://github.com/jucastrum">
