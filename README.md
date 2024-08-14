@@ -25,6 +25,6 @@
 ## Contact me on:
 <div> 
   <a href="https://instagram.com/jucastrum" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-ec63a1?logo=Instagram&logoColor=white&link=https%3A%2F%2Fjuportifolio.vercel.app%2F">
+  <a href="https://instagram.com/jucastrum" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-ec63a1?logo=Instagram&logoColor=white&link=https%3A%2F%2Fjuportifolio.vercel.app%2F">
 </div>
 
